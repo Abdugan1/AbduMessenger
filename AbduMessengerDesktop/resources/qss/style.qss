@@ -1,0 +1,28 @@
+ConnectionErrorPage {
+    background-color: white;
+}
+
+LineEdit {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    border-radius: 3px;
+    min-height: 40px;
+}
+
+
+Button {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    border-radius: 3px;
+    min-height: 40px;
+}
+
+Button:hover {
+    background-color: rgb(55, 55, 55);
+}
+
+Button#reconnectButton {
+    width: 300px;
+}
